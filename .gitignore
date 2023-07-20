@@ -1,0 +1,6 @@
+# Ignore IDE related files
+.idea
+
+# Ignore builds
+cmake-build-debug
+cmake-build-release
